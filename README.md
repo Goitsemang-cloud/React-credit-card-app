@@ -7,5 +7,5 @@
 ###  npm i web-vitals
 
 
-### its a simple react js app using react-credit-cards 
+*its a simple react js app using react-credit-cards*
 
