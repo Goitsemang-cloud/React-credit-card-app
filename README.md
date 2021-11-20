@@ -6,3 +6,6 @@
 ###  npm i styled-components
 ###  npm i web-vitals
 
+
+### its a simple react js app using react-credit-cards 
+
